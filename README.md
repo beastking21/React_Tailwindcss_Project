@@ -1,6 +1,6 @@
-# react_tailwindcss_project1
+# React_Tailwindcss_Project
 
-A starter/demo React project styled with Tailwind CSS. This repository contains a simple React application integrated with Tailwind for rapid UI development and utility-first styling.
+A React project styled with Tailwind CSS. This repository contains a simple React application integrated with Tailwind for rapid UI development and utility-first styling.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -107,6 +107,9 @@ Common scripts you may find in package.json:
 - npm test — run tests (if configured)
 
 Check package.json for the exact script names in this project.
+
+Check live demo
+https://dainty-pithivier-b9dc76.netlify.app/
 
 ## Contributing
 Contributions are welcome. Suggestions:
