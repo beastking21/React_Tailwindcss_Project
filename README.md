@@ -26,9 +26,7 @@ This project demonstrates a React application using Tailwind CSS for styling. It
 - Ready to adapt for development and production builds
 
 ## Demo / Preview
-Add screenshots or a link to a live demo here (if deployed). Example:
-- Screenshot: docs/screenshot.png (replace with actual image)
-- Live demo: https://your-deployment-url.example (replace when available)
+- Live demo: https://dainty-pithivier-b9dc76.netlify.app/
 
 ## Prerequisites
 - Node.js (14+ recommended)
@@ -96,20 +94,14 @@ To customize Tailwind, edit tailwind.config.js and restart your dev server.
 - postcss.config.js
 - package.json
 
-Adjust based on the actual structure in this repository.
-
 ## Scripts
 Common scripts you may find in package.json:
 - npm run dev — start dev server (Vite)
 - npm start — start dev server (CRA)
 - npm run build — production build
 - npm run preview — preview production build (Vite)
-- npm test — run tests (if configured)
 
 Check package.json for the exact script names in this project.
-
-Check live demo
-https://dainty-pithivier-b9dc76.netlify.app/
 
 ## Contributing
 Contributions are welcome. Suggestions:
@@ -119,13 +111,6 @@ Contributions are welcome. Suggestions:
 4. Open a pull request describing your changes
 
 Please follow any existing coding style and update tests/documentation where appropriate.
-
-## License
-Specify a license here (e.g., MIT). If you want the repository to use MIT:
-```
-MIT License
-```
-Replace or add a LICENSE file as needed.
 
 ## Author
 beastking21
